@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830771378685",
+    "project_id": "projectta-37c05",
+    "storage_bucket": "projectta-37c05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830771378685:android:29785ec73d83ebfc608194",
+        "android_client_info": {
+          "package_name": "com.example.monitoring_listrik_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD3EUCbtTJHjSQ9MCQxRORe2rhxsYctxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
